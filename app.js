@@ -4,7 +4,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose= require("mongoose");
 const _ = require("lodash");
-import MongoURI from "Key.js";
+import MongoURi from "Key.js";
 const app = express();
 
 app.set('view engine', 'ejs');
